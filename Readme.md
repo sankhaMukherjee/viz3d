@@ -1,6 +1,6 @@
 # viz3d
 
-One Paragraph of project description goes here
+Generates a set of libraries that will be used for scientific visualization in 3D. This will solev the problem of having to install mayavi, which is, for all practical purposes impossible.
 
 ## Getting Started
 
